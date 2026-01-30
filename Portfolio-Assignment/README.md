@@ -16,7 +16,7 @@ Portfolio-Assignment/
 
 ## Setup Steps
 
-   git clone <repository-url>
+git clone https://github.com/Prakash-Jangid-hub/Cohort-HTML.git
 
 2. **Open the Project Folder**
 
@@ -25,14 +25,13 @@ Portfolio-Assignment/
    ```
 
 3. **Run the Project**
-
-   * Simply open `index.html` in any modern web browser (Chrome, Firefox, Edge).
+   - Simply open `index.html` in any modern web browser (Chrome, Firefox, Edge).
 
 ---
 
 ## Technologies Used
 
-* HTML5
+- HTML5
 
 ---
 
@@ -41,8 +40,6 @@ Portfolio-Assignment/
 **Prakash Jangid**
 Full Stack Developer | MERN Stack Enthusiast
 
-
 ## Preview
 
 ![Portfolio Preview](./screenshot.png)
-
