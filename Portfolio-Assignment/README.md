@@ -42,4 +42,4 @@ Full Stack Developer | MERN Stack Enthusiast
 
 ## Preview
 
-![Portfolio Preview](./screenshot.png)
+![Portfolio Preview](./portfolio.png)
